@@ -1,3 +1,3 @@
 - Data was scraped from GitHub using its API. The script searches for users in a specific city with a minimum follower count, retrieves their details and repositories sorted by the most recent updates, and writes the collected information into CSV files for analysis and further processing.
-- The most popular language after 2020 was Python as compared to Javascript which is most popular throughout the years.
+- Longer bios correlate positively with follower count due to increased information availability and personal branding. The most popular language after 2020 was Python as compared to Javascript which is most popular throughout the years.
 - The more are the public repositories, more are the followers. So to increase followers, developers must create more useful public repositories.
